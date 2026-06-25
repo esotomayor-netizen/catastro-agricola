@@ -1,0 +1,416 @@
+[
+  {
+    "id": 100000,
+    "razonSocial": "MIGUEL LETELIER",
+    "lat": -33.8719603,
+    "lon": -70.8917518,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/QdvaGdU7CNTXDEny6"
+  },
+  {
+    "id": 100001,
+    "razonSocial": "JOSE ANTONIO DE LA JARA",
+    "lat": -33.8330777,
+    "lon": -70.8553152,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/8s1xNLb529wtsfKw5"
+  },
+  {
+    "id": 100002,
+    "razonSocial": "ANDRES RISOPATRON",
+    "lat": -33.9629925,
+    "lon": -70.6661452,
+    "comuna": "Mostazal",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/15Cvzu3sky3AvZsX9"
+  },
+  {
+    "id": 100003,
+    "razonSocial": "AGRÍCOLA EL JARDÍN",
+    "lat": -33.7294955,
+    "lon": -71.5268249,
+    "comuna": "San Antonio",
+    "region": "Región de Valparaíso",
+    "mapsUrl": "https://maps.app.goo.gl/qqAiJjhrdLrJZDje7"
+  },
+  {
+    "id": 100004,
+    "razonSocial": "AGRÍCOLA J LECAROS",
+    "lat": -33.2753996,
+    "lon": -70.6996074,
+    "comuna": "Colina",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/P35Ud7qSCFzgNh5y5"
+  },
+  {
+    "id": 100005,
+    "razonSocial": "LUIS ALBERTO DE LA JARA",
+    "lat": -33.8440788,
+    "lon": -70.8206582,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/tf68zwuPc4uAUs1i6"
+  },
+  {
+    "id": 100006,
+    "razonSocial": "ALIRO CORNEJO",
+    "lat": -33.8791178,
+    "lon": -70.8825113,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/VtFFFZeQQTX3nnce9"
+  },
+  {
+    "id": 100007,
+    "razonSocial": "DELIFRUT",
+    "lat": -33.8819677,
+    "lon": -70.8803527,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/yDpgP5uozfntQTcM8"
+  },
+  {
+    "id": 100008,
+    "razonSocial": "LAS ENCINAS",
+    "lat": -33.7106863,
+    "lon": -71.2559999,
+    "comuna": "Melipilla",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/JFRR76PNcxsMw3pq5"
+  },
+  {
+    "id": 100009,
+    "razonSocial": "SANTA ROSARIO",
+    "lat": -33.7973364,
+    "lon": -70.7778669,
+    "comuna": "Buin",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/STepQahJpKN8stdX9"
+  },
+  {
+    "id": 100010,
+    "razonSocial": "SANTA ADELAIDA",
+    "lat": -33.7891892,
+    "lon": -70.7863413,
+    "comuna": "Buin",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/2xAZi4VSkv8LV7jG8"
+  },
+  {
+    "id": 100011,
+    "razonSocial": "BUENAVENTURA",
+    "lat": -34.0514268,
+    "lon": -70.7615732,
+    "comuna": "Graneros",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/wTXKuuYWf3X95AfWA"
+  },
+  {
+    "id": 100012,
+    "razonSocial": "HERMANOS VILLA linderos",
+    "lat": -33.7851175,
+    "lon": -70.7084939,
+    "comuna": "Buin",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/XEAH8pHWVhC1msBu7"
+  },
+  {
+    "id": 100013,
+    "razonSocial": "OLIVAR DE CHACABUCO",
+    "lat": -33.0346952,
+    "lon": -70.6954195,
+    "comuna": "Colina",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/XPPyaapAZfdKwZjT7"
+  },
+  {
+    "id": 100014,
+    "razonSocial": "AVICOLA HUELQUEN",
+    "lat": -33.8219122,
+    "lon": -70.6463249,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/mGSh6f61UHXCa7Lj6"
+  },
+  {
+    "id": 100015,
+    "razonSocial": "EL RULO",
+    "lat": -33.8397337,
+    "lon": -70.8400566,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/ZTwq1ervNTYc3R8V6"
+  },
+  {
+    "id": 100016,
+    "razonSocial": "JOSE CELSIE",
+    "lat": -33.7633011,
+    "lon": -70.889186,
+    "comuna": "Isla de Maipo",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/Bf6eu7sUd4sKd688A"
+  },
+  {
+    "id": 100017,
+    "razonSocial": "SANTA JULIA",
+    "lat": -33.7891892,
+    "lon": -70.7863413,
+    "comuna": "Buin",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/2xAZi4VSkv8LV7jG8"
+  },
+  {
+    "id": 100018,
+    "razonSocial": "CORCOLEN (carretera)",
+    "lat": -34.4250789,
+    "lon": -70.8877436,
+    "comuna": "Rengo",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/QNiCYaqDvD6aZpzj6"
+  },
+  {
+    "id": 100019,
+    "razonSocial": "CORCOLEN (santa ines)",
+    "lat": -34.4696566,
+    "lon": -70.9546949,
+    "comuna": "Malloa",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/b6TKvh3kCdWYwtiN7"
+  },
+  {
+    "id": 100020,
+    "razonSocial": "HERMANOS BRAVO",
+    "lat": -33.9844535,
+    "lon": -71.3396153,
+    "comuna": "Provincia de Melipilla",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/hotwzs3SUZXGjW428"
+  },
+  {
+    "id": 100021,
+    "razonSocial": "JUAN EDUARDO COX",
+    "lat": -33.2322956,
+    "lon": -70.7011044,
+    "comuna": "Colina",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/rcpGBjLfQ6gCQPuz8"
+  },
+  {
+    "id": 100022,
+    "razonSocial": "CASAS VIEJAS",
+    "lat": -33.7856633,
+    "lon": -70.7415937,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/Zix2qfwxkZK39NME6"
+  },
+  {
+    "id": 100023,
+    "razonSocial": "ANGEL MARTINEZ",
+    "lat": -33.7928869,
+    "lon": -70.7402938,
+    "comuna": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/KMGcMaL4Jccy9adDA"
+  },
+  {
+    "id": 100024,
+    "razonSocial": "SANTA MARIA DE ODESSA",
+    "lat": -35.2212204,
+    "lon": -71.2610796,
+    "comuna": "Río Claro",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/ANzP9kybvvwK66xv5"
+  },
+  {
+    "id": 100025,
+    "razonSocial": "LOANCO",
+    "lat": -34.8640512,
+    "lon": -71.3144082,
+    "comuna": "Teno",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/f38kdyFjPk7jgunA7"
+  },
+  {
+    "id": 100026,
+    "razonSocial": "COPA DE AGUA",
+    "lat": -35.9200377,
+    "lon": -71.640698,
+    "comuna": "Longaví",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/ufswcXKS4Yi22aXo6"
+  },
+  {
+    "id": 100027,
+    "razonSocial": "INVERSIONES MAULE",
+    "lat": -35.5363007,
+    "lon": -71.6928838,
+    "comuna": "Maule",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/vkFNLYwjaZ4n97fA7"
+  },
+  {
+    "id": 100028,
+    "razonSocial": "ANDREA DEL PILAR FARIAS LORCA",
+    "lat": -34.8620512,
+    "lon": -71.2326027,
+    "comuna": "Teno",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/A6whfxGbKpBqSpHA7"
+  },
+  {
+    "id": 100029,
+    "razonSocial": "MARIA RITA GONZALEZ",
+    "lat": -34.6119308,
+    "lon": -71.6399678,
+    "comuna": "Provincia de Colchagua",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/yWc5iaeRcdytCN296"
+  },
+  {
+    "id": 100030,
+    "razonSocial": "LOS OLMOS",
+    "lat": -34.8446067,
+    "lon": -71.1887693,
+    "comuna": "Teno",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/cCnhskyZCMApCA5x6"
+  },
+  {
+    "id": 100031,
+    "razonSocial": "MARTIN FERNANDEZ",
+    "lat": -35.3233056,
+    "lon": -71.7523979,
+    "comuna": "Pencahue",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/MziDgcLzGhMioV3B8"
+  },
+  {
+    "id": 100032,
+    "razonSocial": "PAHUIL",
+    "lat": -35.9740776,
+    "lon": -72.2986659,
+    "comuna": "Cauquenes",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/rY5gDcmf3j6fFKZR8"
+  },
+  {
+    "id": 100033,
+    "razonSocial": "SEBASTIAN CREMASCHI",
+    "lat": -34.5246859,
+    "lon": -72.4725142,
+    "comuna": null,
+    "region": null,
+    "mapsUrl": "https://maps.app.goo.gl/N4wKgiBMdNaX8DP3A"
+  },
+  {
+    "id": 100034,
+    "razonSocial": "LEFENDA",
+    "lat": -36.0162036,
+    "lon": -72.1295469,
+    "comuna": "Cauquenes",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/qyVJAQzE33C5gy38A"
+  },
+  {
+    "id": 100035,
+    "razonSocial": "TORREFRUT",
+    "lat": -35.6826656,
+    "lon": -71.4890329,
+    "comuna": "Yerbas Buenas",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/gmmN2p728u5GzZ2i7"
+  },
+  {
+    "id": 100036,
+    "razonSocial": "LOS LINGUES",
+    "lat": -34.5580886,
+    "lon": -70.9144323,
+    "comuna": "San Fernando",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/drT4QpQBM5tdDorR7"
+  },
+  {
+    "id": 100037,
+    "razonSocial": "TALCAREHUE",
+    "lat": -34.6414604,
+    "lon": -70.8976256,
+    "comuna": "San Fernando",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/PkBvQFyewezNoTHy5"
+  },
+  {
+    "id": 100038,
+    "razonSocial": "BUENA FORTUNA",
+    "lat": -34.6487456,
+    "lon": -71.208936,
+    "comuna": "Nancagua",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/k5nUt8Z7RvKdWjRs7"
+  },
+  {
+    "id": 100039,
+    "razonSocial": "RAMON CRUZ",
+    "lat": -34.5247634,
+    "lon": -71.3946037,
+    "comuna": "Provincia de Colchagua",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/LMsMbS4D8XHGePVB9"
+  },
+  {
+    "id": 100040,
+    "razonSocial": "CAMPO VILLALON",
+    "lat": -34.9042345,
+    "lon": -71.0110863,
+    "comuna": "Teno",
+    "region": "Región del Maule",
+    "mapsUrl": "https://maps.app.goo.gl/PP1pK8qdY7eVcaZB9"
+  },
+  {
+    "id": 100041,
+    "razonSocial": "TAMARINDO (Vaticano)",
+    "lat": -34.2535788,
+    "lon": -70.7898249,
+    "comuna": "Requínoa",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/AX2i1PDxkyAxQ9qa6"
+  },
+  {
+    "id": 100042,
+    "razonSocial": "AGROCHERRY (santina)",
+    "lat": -34.5717489,
+    "lon": -70.9172282,
+    "comuna": "San Fernando",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/FHKBHyx4m1vLdHXM8"
+  },
+  {
+    "id": 100043,
+    "razonSocial": "RUCATEMU",
+    "lat": -33.6301331,
+    "lon": -70.7310902,
+    "comuna": "Provincia de Maipo",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/BZVoYzLxKwZCppWU8"
+  },
+  {
+    "id": 100044,
+    "razonSocial": "CV TRADING",
+    "lat": -33.778559,
+    "lon": -70.8332802,
+    "comuna": "Buin",
+    "region": "Región Metropolitana de Santiago",
+    "mapsUrl": "https://maps.app.goo.gl/xrTwXWtonYP3b8qq8"
+  },
+  {
+    "id": 100045,
+    "razonSocial": "AGROCHERRY (lapins)",
+    "lat": -34.4781186,
+    "lon": -70.9433339,
+    "comuna": "Malloa",
+    "region": "Región del Libertador General Bernardo O'Higgins",
+    "mapsUrl": "https://maps.app.goo.gl/ZTbmm1uN53TkLfwD7"
+  }
+]

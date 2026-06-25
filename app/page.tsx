@@ -4,7 +4,8 @@ import { useEffect, useMemo, useState, useCallback } from "react";
 import dynamic from "next/dynamic";
 import FilterPanel from "@/components/FilterPanel";
 import ContactModal from "@/components/ContactModal";
-import { Predio } from "@/lib/types";
+import ExtraContactModal from "@/components/ExtraContactModal";
+import { Predio, PredioAdicional } from "@/lib/types";
 
 const CropMap = dynamic(() => import("@/components/CropMap"), {
   ssr: false,
@@ -28,6 +29,11 @@ export default function Home() {
   const [search, setSearch] = useState("");
   const [selectedPredio, setSelectedPredio] = useState<Predio | null>(null);
   const [filtersOpen, setFiltersOpen] = useState(false);
+  const [extraPredios, setExtraPredios] = useState<PredioAdicional[]>([]);
+  const [selectedExtra, setSelectedExtra] = useState<PredioAdicional | null>(
+    null
+  );
+  const [showExtra, setShowExtra] = useState(true);
 
   useEffect(() => {
     fetch("/data/predios.json")
@@ -39,6 +45,9 @@ export default function Home() {
     fetch("/data/especies.json")
       .then((r) => r.json())
       .then(setEspecies);
+    fetch("/data/predios_adicionales.json")
+      .then((r) => r.json())
+      .then(setExtraPredios);
   }, []);
 
   const filtered = useMemo(() => {
@@ -98,6 +107,9 @@ export default function Home() {
         filteredCount={filtered.length}
         open={filtersOpen}
         onClose={() => setFiltersOpen(false)}
+        showExtra={showExtra}
+        onToggleExtra={() => setShowExtra((v) => !v)}
+        extraCount={extraPredios.length}
       />
 
       <button
@@ -108,13 +120,25 @@ export default function Home() {
       </button>
 
       <main className="relative flex-1">
-        <CropMap predios={filtered} onSelect={setSelectedPredio} />
+        <CropMap
+          predios={filtered}
+          extraPredios={showExtra ? extraPredios : []}
+          onSelect={setSelectedPredio}
+          onSelectExtra={setSelectedExtra}
+        />
       </main>
 
       {selectedPredio && (
         <ContactModal
           predio={selectedPredio}
           onClose={() => setSelectedPredio(null)}
+        />
+      )}
+
+      {selectedExtra && (
+        <ExtraContactModal
+          predio={selectedExtra}
+          onClose={() => setSelectedExtra(null)}
         />
       )}
     </div>

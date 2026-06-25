@@ -14,6 +14,9 @@ export default function FilterPanel({
   filteredCount,
   open,
   onClose,
+  showExtra,
+  onToggleExtra,
+  extraCount,
 }: {
   comunas: string[];
   especies: string[];
@@ -28,6 +31,9 @@ export default function FilterPanel({
   filteredCount: number;
   open: boolean;
   onClose: () => void;
+  showExtra: boolean;
+  onToggleExtra: () => void;
+  extraCount: number;
 }) {
   return (
     <aside
@@ -115,6 +121,19 @@ export default function FilterPanel({
             ))}
           </div>
         </div>
+
+        <label className="flex cursor-pointer items-center justify-between rounded-lg border border-zinc-200 px-3 py-2 text-sm hover:bg-zinc-50">
+          <span className="flex items-center gap-2">
+            <span className="inline-block h-3 w-3 rounded-full border-2 border-dashed border-white bg-zinc-600" />
+            Predios sin especie ({extraCount})
+          </span>
+          <input
+            type="checkbox"
+            checked={showExtra}
+            onChange={onToggleExtra}
+            className="accent-zinc-700"
+          />
+        </label>
       </div>
     </aside>
   );

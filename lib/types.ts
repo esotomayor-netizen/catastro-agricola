@@ -14,3 +14,13 @@ export type Predio = {
   lat: number;
   lon: number;
 };
+
+export type PredioAdicional = {
+  id: number;
+  razonSocial: string;
+  lat: number;
+  lon: number;
+  comuna: string | null;
+  region: string | null;
+  mapsUrl: string | null;
+};
