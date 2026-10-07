@@ -9,6 +9,7 @@ export type Predio = {
   celular: string | null;
   mail: string | null;
   especie: string;
+  variedad?: string | null;
   haPlantada: number | null;
   haTotal: number | null;
   lat: number;

@@ -73,6 +73,9 @@ export default function ContactModal({
                 Especie
               </p>
               <p className="text-zinc-900">{predio.especie}</p>
+              {predio.variedad && (
+                <p className="text-xs text-zinc-500">{predio.variedad}</p>
+              )}
             </div>
             <div>
               <p className="text-xs font-semibold uppercase tracking-wide text-green-700">
